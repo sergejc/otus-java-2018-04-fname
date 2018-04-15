@@ -4,7 +4,7 @@ import com.google.common.collect.Lists;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] argv) {
+    public static void main(String[] args) {
         List<String> list = Lists.newArrayList("one", "two", "three");
         System.out.println(list);
     }
